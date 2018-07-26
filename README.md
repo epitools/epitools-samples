@@ -2,6 +2,7 @@
 
 - 8bitDataset.zip [Test data set for MATLAB with 8bit Tiff images]
 - 16bitDataset.zip [Test data set for MATLAB with 16bit Tiff images]
+- cellClone_example.zip [Test data for the Cell_CLONE overlay]
 - cellGraph_example.zip [Test data set for ICY]
 - cellSurface_example.zip [Test data set for Surface Module in ICY]
 - GraphML_example.zip [Example R script to analyze GraphML output from ICY]
